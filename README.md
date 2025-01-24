@@ -14,7 +14,7 @@ A Python application that recognizes handwritten digits using RandomForest class
 3. Run classifier.py
 
 ## Usage
-- Draw digit with mouse
-- Press Enter to predict
+- Draw digit with your mouse
+- Press Enter to display prediction
 - Press 'c' to clear
 - Close window to exit
